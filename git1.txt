@@ -3,3 +3,4 @@ This is the second operation
 Creating a new branch is quick
 this is the second operation
 Creating a new branch is quick and simple
+add merge
